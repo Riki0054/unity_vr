@@ -9,9 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 9cf70c4492b8e374f999732c1afc4708,
-      type: 3}
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 78cee48934f5d004cbffbec3cda26076,
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a5bb733eb0ff2b0428304d24c13886e9,
       type: 2}
-    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 11c49d4e2de0db840a355122601149fb,
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 55604afcbc29f154492bb8803e1fbcd9,
       type: 2}
