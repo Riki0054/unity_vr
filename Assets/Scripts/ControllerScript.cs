@@ -32,7 +32,7 @@ public class ControllerScript : MonoBehaviour
         if (OVRInput.Get(OVRInput.RawButton.RThumbstickRight)) transform.Rotate(0, -5.0f * step, 0);
         if (OVRInput.GetUp(OVRInput.Button.One))
         {
-            OVRInput.SetControllerVibration(1, 1, OVRInput.Controller.RTouch);
+            //OVRInput.SetControllerVibration(1, 1, OVRInput.Controller.RTouch);
         }
         if (OVRInput.Get(OVRInput.Axis1D.PrimaryHandTrigger) > 0.0f)
         {
